@@ -24,7 +24,7 @@ body{
     display: flex;
     padding: 3px 10px;
     border: 1px solid white;
-    background-color: black;
+    background-color: rgb(35, 33, 33);
     box-shadow: 2px 2px 2px 2px grey;
     color: white;
     width: 20%;
@@ -52,7 +52,8 @@ body{
 }
 
 .contact:hover{
-    background-color: grey;
+    background-color: lightgrey;
+    color: black;
 }
 #form {
     text-align: center;
